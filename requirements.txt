@@ -1,0 +1,10 @@
+# python==3.12.4
+# Do NOT include python version here
+streamlit==1.32.0
+joblib==1.0.1
+numpy==1.24.4
+pandas==1.5.3
+Pillow==9.5.0
+scikit-learn==1.2.2
+scipy==1.10.1
+ydata-profiling==4.6.4
