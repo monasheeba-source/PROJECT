@@ -7,4 +7,9 @@ pandas==1.5.3
 Pillow==9.5.0
 scikit-learn==1.2.2
 scipy==1.10.1
-ydata-profiling==4.6.4
+#ydata-profiling==4.6.4
+optuna
+optuna-integration[lightgbm]
+category_encoders
+imbalanced-learn
+lightgbm 
