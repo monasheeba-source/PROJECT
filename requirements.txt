@@ -1,1 +1,13 @@
-
+streamlit
+joblib
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+#ydata-profiling
+optuna
+optuna-integration[lightgbm]
+category_encoders
+imbalanced-learn
+lightgbm 
